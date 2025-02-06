@@ -223,9 +223,7 @@ git push -u origin feature/my-feature
 <br>
 
 <center>
-<a href="https://github.com/hereisSwapnil/ExamTime/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hereisSwapnil/ExamTime" />
-</a>
+
 </center>
 <br>
 <p align="right"><a href="#top">Back to top</a></p>
