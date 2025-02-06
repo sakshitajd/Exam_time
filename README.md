@@ -31,14 +31,7 @@
   
 Contributing in open source increases your opportunities to work with different projects and mentors, getting to know various insights and ideas. It is a platform where contributors grow together with a construvtive and a positive attitude.
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
 
-![GitHub issues](https://img.shields.io/github/issues/hereisSwapnil/ExamTime)
-![GitHub forks](https://img.shields.io/github/forks/hereisSwapnil/ExamTime)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/hereisSwapnil/ExamTime)
-![GitHub Repo stars](https://img.shields.io/github/stars/hereisSwapnil/ExamTime?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/hereisSwapnil/ExamTime)
-![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=blue&up_message=online&url=https://exam-time.vercel.app/)
 
 </p>
 
@@ -209,15 +202,8 @@ git push -u origin feature/my-feature
 <br>
 <br>
 <!-- a big thanks to all the contributors -->
-<div align="center">
-<h2><font size="6"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="40" height="40" /> Contributors </font></h2>
-</div>
-<br>
 
-- This project thanking all the contributors for having your valuable contribution to our project
-- Make sure you show some love by giving ⭐ to our repository
 
-<br>
 
 <center>
 
