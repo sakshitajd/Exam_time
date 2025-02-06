@@ -164,13 +164,7 @@ git push -u origin feature/my-feature
 ```
 ### Now review the changes and you are all set to make your Pull Request 🥳
 
-<br>
 
-<div align="center">
-<h2><font size="6"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Page with Curl" width="40" height="40" /> Contributing Guideline </font></h2>
-</div>
-
-<br>
 
 
 <!-- mentors -->
